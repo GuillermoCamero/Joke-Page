@@ -1,0 +1,18 @@
+body {
+    color: wheat;
+    background-color: black;
+}
+
+div {
+    border: 10px solid red;
+}
+
+.contenedor {
+    display: flex;
+}
+
+p, dd{ 
+    text-indent: 2em; 
+    text-align: center;
+    font-size: 25px;
+}
